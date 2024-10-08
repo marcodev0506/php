@@ -1,5 +1,5 @@
 <?php
-
+define("Apodos", 2000);
 //Debugging de arreglo
 $gatos = [
     "Mitzu"=> 2,
@@ -12,3 +12,5 @@ var_dump($gatos);
 
 echo "\n";
 print_r($gatos);
+
+echo Apodos;
