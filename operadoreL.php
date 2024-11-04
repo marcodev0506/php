@@ -61,3 +61,6 @@ foreach ($personas as $persona) {
     // Imprimimos la edad de la persona actual
 }
 
+
+// La precedencia de operadores me dice que operación pasara primero en un conjunto de operaciones (primero realiza operaciones y luego realiza operaciones matemáticas)
+
